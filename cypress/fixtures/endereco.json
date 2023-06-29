@@ -1,0 +1,58 @@
+[{
+    "nome": "ignez",
+    "sobrenome": "modesto",
+    "empresa": "EBAC",
+    "pais": "Brasil",
+    "endereco": " Av Brasil",
+    "numero":"10",
+    "cidade": "Duque de Caxias",
+    "estado": "Rio de Janeiro",
+    "cep": "21210000",
+    "telefone": "977775555",
+    "email":"novo@ebac.com"
+
+},
+
+{
+    "nome": "Gilson",
+    "sobrenome": "Modesto",
+    "empresa": "EBAC",
+    "pais": "Brasil",
+    "endereco": "Rua Amarela",
+    "numero":"14",
+    "cidade": "Caxias",
+    "estado": "Rio de Janeiro",
+    "cep": "2121555",
+    "telefone": "977772222",
+    "email":"email@ebac.com"
+},
+
+{
+    "nome": "Vanessa",
+    "sobrenome": "Nascimento",
+    "empresa": "EBAC",
+    "pais": "Brasil",
+    "endereco": "Rua Rosa",
+    "numero":"5",
+    "cidade": "Araruama",
+    "estado": "Rio de Janeiro",
+    "cep": "2121888",
+    "telefone": "977771111",
+    "email":"antigo@ebac.com"
+}
+
+
+
+
+]
+
+
+
+
+
+
+
+
+
+
+
